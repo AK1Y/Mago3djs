@@ -1,0 +1,27 @@
+{
+    "attributes": {
+        "isPhysical": false,
+        "nodeType": "root",
+        "projectType": "3ds"
+    },
+    "children": [
+        {
+            "attributes": {
+                "isPhysical": true,
+                "nodeType": "..."
+            },
+            "children": [
+            ],
+            "data_key": "Tree1", 
+            "data_name": "Tree1",
+            "latitude": 39.9042,
+            "longitude": 116.4074,
+            "height": 30,
+            "heading": 0,
+            "pitch": 0,
+            "roll": 0
+        }
+    ],
+    "data_key": "demo",
+    "data_name": "demo"
+}
